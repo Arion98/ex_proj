@@ -1,0 +1,19 @@
+.div{
+    
+    border-bottom: 1.6px solid rgba(0, 0, 0, 0.322);
+    margin: 3% 0%;
+   width: 22%;
+}
+
+.info{
+    border-bottom: 2px solid rgba(0, 0, 0, 0.322);
+    margin: 3% 0%;
+}
+
+.form_control{
+    width: 100%;
+    padding: .4%;
+    border-radius: 5px;
+    font-family: sans-serif;
+    border: 2px solid rgba(0, 0, 0, 0.26);
+}

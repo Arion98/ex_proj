@@ -1,0 +1,49 @@
+*{
+   margin: 0px;
+   padding: 0px;
+}
+
+body{
+   background-color: rgba(128, 128, 128, 0.514);
+}
+
+.conteudo{
+   background-color: aliceblue;
+   border: 1px solid rgba(128, 128, 128, 0.39);
+   border-radius: 15px;
+   width: 40%;
+   margin: 10% auto;
+   padding: 2%;
+
+}
+
+
+.titule{
+   text-align: center; 
+}
+
+.caixa{
+   margin: auto;
+   text-align: center;
+}
+
+.text{
+   margin: 0 1%;
+   width: 50%;
+}
+
+.selecionar{
+   margin: 5%  0% ;
+   padding: 0 .6%;
+   
+}
+
+.info{
+   border-bottom: .2px solid rgba(0, 0, 0, 0.322);
+   margin: 3% 0%;
+   width: 40%;
+}
+
+div{
+   margin: 2% 0;
+}
